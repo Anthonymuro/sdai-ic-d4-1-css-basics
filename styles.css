@@ -1,7 +1,10 @@
 body {
-    background-color: whitesmoke;
+    background-color: #004466;
+}
+h2 {
+    color: gold;
 }
 
 p {
-    color: darkslategray;
+    color: #f5f5dc; #4682b4;
 }
